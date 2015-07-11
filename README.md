@@ -1,2 +1,0 @@
-# GroceryService
-Grocery Service repository
